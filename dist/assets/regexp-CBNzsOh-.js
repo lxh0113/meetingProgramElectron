@@ -1,0 +1,1 @@
+import{h as a}from"./http-BrEv2jN3.js";const p=e=>a({url:"/email/register",method:"POST",params:{email:e}}),t=RegExp(/^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(.[a-zA-Z0-9_-]+)+$/),o=RegExp(/^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[^]{8,16}$/),r=RegExp(/^d{6}$/);export{r as c,t as e,o as p,p as s};

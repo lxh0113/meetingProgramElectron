@@ -1,0 +1,1 @@
+import{ax as e,r as t}from"./index-DUL14BUD.js";const a=e("user",()=>{const s=t({id:1,account:"string",avatar:"string",email:"string",phone:"string",sex:"string",username:"string",password:"string"});return{user:s,setUserInfo:r=>{s.value=r}}},{persist:{storage:localStorage}});export{a as u};

@@ -1,0 +1,1 @@
+import{ax as o,r as n}from"./index-DUL14BUD.js";const c=o("myDownload",()=>{const t=n("这是内容部分");return{content:t,setContent:e=>{t.value=e},getContent:()=>t.value}},{persist:{storage:localStorage}});export{c as u};
